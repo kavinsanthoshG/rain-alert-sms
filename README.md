@@ -3,8 +3,6 @@
 Checks Whether Rain can be expected in a Target Location in the next 12 hours. If it is forecasted to Rain,sends an SMS to User's Smart Phone.
 ![A Man getting to know that it is going to rain today through his Smartphone](DALL%C2%B7E%202023-03-25%2019.13.05%20-%20a%20man%20finding%20out%20that%20is%20going%20to%20rain%20today%20through%20his%20phoen.png)
 
-⚠️The Folders .idea and venv are created by Pycharm IDE there are of no significance to the Software's Functionality.⚠️
-
 ## General Project Details:
 
 **main.py Explanation:**
@@ -81,9 +79,11 @@ Contributions are always welcome!
 
 If you have any feedback, please reach out to us.
 
-## Badges
+LinkedIn-[@kavinsanthoshg](https://www.linkedin.com/in/kavinsanthoshg/)
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
+Twitter-[@kavinsanthoshG](https://twitter.com/kavinsanthoshG)
+
+## Badges
 
 ![GPLv3 License](https://img.shields.io/badge/License-GNU%20GPL-blue)
 
