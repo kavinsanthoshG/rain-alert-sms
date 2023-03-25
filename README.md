@@ -6,7 +6,7 @@ Checks Whether Rain can be expected in a Target Location in the next 12 hours. I
 
 ## Prerequisites:
 
-Basic Python Knowledge
+Basic Python Knowledge  and
 Below Basic API Knowledge
 
 ## General Project Details:
