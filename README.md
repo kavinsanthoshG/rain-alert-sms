@@ -4,6 +4,11 @@ Checks Whether Rain can be expected in a Target Location in the next 12 hours. I
 
 ![Alt text](DALL%C2%B7E%20-%20a%20man%20finding%20out%20that%20is%20going%20to%20rain%20today%20through%20his%20phone.png)
 
+## Prerequisites:
+
+Basic Python Knowledge
+Below Basic API Knowledge
+
 ## General Project Details:
 
 **main.py Explanation:**
