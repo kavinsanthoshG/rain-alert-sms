@@ -1,4 +1,4 @@
-# 🌧️ ⛈️ Rain Alert through SMS Application ✉️➡📱
+# 🌧️ ⛈️ Get Rain Alert through SMS ✉️➡📱
 
 Checks Whether Rain can be expected in a Target Location in the next 12 hours. If it is forecasted to Rain,sends an SMS to User's Smart Phone.
 
